@@ -1,9 +1,9 @@
 # Hi, I'm FanX
 
-<p>
-  🌐 [Website](https://github.com/FanX0)
+### _I'm a self-taught, passionate Frontend Developer who loves building clean and user-friendly interfaces._
+
+🌐 [Website](https://github.com/FanX0)
 ✉ [E-Mail](mailto:faridazhari111@gmail.com)
-</p>
 
 ## Status
 
