@@ -7,8 +7,10 @@
 
 ## Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=FanX0&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-<img src="https://github-readme-stats-five-pied-54.vercel.app/api/top-langs?username=FanX0&show_icons=true&locale=en&langs_count=10&theme=onedark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" align="right" alt="FanX0" width="300px"  />
+<a href="https://github.com/FanX0">
+    <img src="https://github-readme-stats.vercel.app/api?username=FanX0&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+    <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=FanX0&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
