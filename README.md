@@ -8,9 +8,11 @@
 ## Status
 
 <img src="https://github-readme-stats.vercel.app/api?username=FanX0&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-<img src="https://github-readme-stats-five-pied-54.vercel.app/api/top-langs?username=FanX0&show_icons=true&locale=en&langs_count=10&theme=onedark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" align="right" alt="FanX0" width="300px" style="margin-top: 280px;" />
+<img src="https://github-readme-stats-five-pied-54.vercel.app/api/top-langs?username=FanX0&show_icons=true&locale=en&langs_count=10&theme=onedark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" align="right" alt="FanX0" width="300px"  />
 
-## ### Languages & Tools
+---
+
+## Languages & Tools
 
 ![Javascript](https://img.shields.io/badge/-Javascript-blue?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)&nbsp;
