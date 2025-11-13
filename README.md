@@ -11,6 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=FanX0&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" /> 
     <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=FanX0&layout=compact&langs_count=8&card_width=320" alt="Most Used Languages" />
 </a>
+
 ## Languages & Tools
 
 ![Javascript](https://img.shields.io/badge/-Javascript-blue?style=flat&logo=javascript)&nbsp;
